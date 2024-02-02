@@ -5,7 +5,7 @@ const MenuItems = () => {
     return (
         <>
             <li className="text-white text-lg hover:shadow-sm hover:shadow-yellow-300"><Link to='/'>Home</Link></li>
-            <li className="text-white text-lg hover:shadow-sm hover:shadow-yellow-300"><Link to='/about'>About</Link></li>
+            <li className="text-white text-lg hover:shadow-sm hover:shadow-yellow-300"><Link to='/about'>About Us</Link></li>
             <li className="text-white text-lg hover:shadow-sm hover:shadow-yellow-300"><Link to='/service'>Services</Link></li>
             <li className="text-white text-lg hover:shadow-sm hover:shadow-yellow-300"><Link to='/designs'>Design Samples</Link></li>
             <li className="text-white text-lg hover:shadow-sm hover:shadow-yellow-300"><Link to='/careers'>Careers</Link></li>
